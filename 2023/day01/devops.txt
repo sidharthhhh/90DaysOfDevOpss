@@ -6,3 +6,41 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+Automation...........
+
+ # Automation in DevOps
+
+Automation is a core part of DevOps. DevOps automation refers to the use of tools and technologies to automate processes within the DevOps lifecycle. This includes:
+
+- Automated software testing 
+- Infrastructure automation using tools like Ansible, Puppet, Chef, etc. 
+- Automated monitoring and reporting
+- Automated deployments using tools like Jenkins
+
+The benefits of DevOps automation include:
+
+- **Speed:** Automation speeds up processes like testing, deployments, and provisioning infrastructure. This results in faster software releases.
+
+- **Consistency:** Automated processes are consistent and repeatable, reducing the risk of human error.
+
+- **Scalability:** Automation can scale to handle large infrastructures and complex workflows. Manual processes do not scale as easily.
+
+- **Reliability:** Automated processes tend to be more reliable due to their repeatability.
+
+- **Visibility:** Automated monitoring and reporting provide more visibility into the health and performance of applications.
+
+Some examples of DevOps automation include:
+
+- Using a CI/CD tool like Jenkins to automatically build, test, and deploy code changes
+- Using configuration management tools like Ansible to automate the provisioning and configuration of infrastructure
+- Using APM tools to monitor applications and infrastructure and generate alerts and reports
+
+To implement DevOps automation successfully, organizations need to:
+
+- Identify processes that are good candidates for automation  
+- Select the right tools to automate those processes
+- Integrate automation tools into their existing toolchain
+- Ensure tools are flexible, reusable, and work across platforms and languages
+
+Hope this helps! Let me know if you have any other questions.
+
